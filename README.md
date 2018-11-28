@@ -1,2 +1,2 @@
-# Multiespectral_Images
-Multiespectral Images
+# Multispectral_Images
+ 
