@@ -1,4 +1,4 @@
-# Multispectral_Images
+# Multispectral Images
 
 The standard means of opening and accessing a hyperspectral image file with SPy is via the image function, which returns an instance of a SpyFile object.
 
