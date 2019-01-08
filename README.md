@@ -52,3 +52,5 @@ https://hub.packtpub.com/image-classification-and-feature-extraction-images/
 https://pypi.org/project/tifffile/
 
 https://www.fileformat.info/format/tiff/sample/index.htm
+
+https://pcjericks.github.io/py-gdalogr-cookbook/raster_layers.html
